@@ -1,0 +1,4 @@
+langchain
+pypdf
+pandas
+numpy
